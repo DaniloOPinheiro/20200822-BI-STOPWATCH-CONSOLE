@@ -5,7 +5,7 @@
 
 		Using the project via console, with solid bases in csharp.
 
-## CREATING A STOPWATCH VIA CONSOLE
+### CREATING A STOPWATCH VIA CONSOLE
 
 # Fundamentos em CSHARP
 
@@ -14,4 +14,4 @@
 
         Utilizando o projeto via console, com bases sólidas em csharp.
 
-## CRIAÇÃO DE UM CRONÔMETRO VIA CONSOLE
+### CRIAÇÃO DE UM CRONÔMETRO VIA CONSOLE
