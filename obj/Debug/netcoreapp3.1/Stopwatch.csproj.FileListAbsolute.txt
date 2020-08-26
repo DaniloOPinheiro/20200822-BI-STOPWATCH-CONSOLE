@@ -1,0 +1,13 @@
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.deps.json
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.runtimeconfig.json
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.runtimeconfig.dev.json
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.dll
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.pdb
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.csprojAssemblyReference.cache
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.AssemblyInfoInputs.cache
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.AssemblyInfo.cs
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.csproj.CoreCompileInputs.cache
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.dll
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.pdb
+/home/daniloopinheiro/RiderProjects/Demos-BALTA/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.genruntimeconfig.cache
